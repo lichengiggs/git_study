@@ -3,4 +3,4 @@
 * test123
 * Creating a new branch is quick.
 
-Creating a new branch is quick & simple in master.
+Creating a new branch is quick and simple.
